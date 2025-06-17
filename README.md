@@ -24,6 +24,8 @@ Follow the [official Mitsuba 3 build guide](https://mitsuba.readthedocs.io/en/la
 ```bash
 pip install torch drjit tqdm scipy
 
+---
+
 ## 🧪 Usage
 
 ### Render a Scene with a Measured BRDF
@@ -32,6 +34,8 @@ To render a scene using a specific measured BRDF:
 
 ```bash
 python render_measured.py <material_name> <scene_file.xml>
+
+---
 
 
 
