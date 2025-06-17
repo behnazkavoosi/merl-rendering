@@ -17,7 +17,7 @@ This repository implements a rendering pipeline using **measured BRDFs** (e.g., 
 
 ### 1. Install Mitsuba 3
 
-Follow the [official Mitsuba 3 build guide](https://mitsuba.readthedocs.io/en/latest/src/getting_started/compiling.html)
+Follow the [official Mitsuba 3 guide](https://www.mitsuba-renderer.org/)
 
 ### 2. Install Python Dependencies
 
